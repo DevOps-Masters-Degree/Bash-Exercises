@@ -25,10 +25,11 @@ Pautas de elaboración
 ### Ejercicio 3
 
 - Escribid un script que imprima en este orden y en líneas diferentes:
-        ◦ El nombre del script que se está ejecutando.
-        ◦ El número de argumentos que se han pasado al script.
-        ◦ El primer y segundo argumentos, ambos en la misma línea.
-        ◦ Si hay más de dos argumentos, los argumentos a partir del tercero (este incluido) cada uno en una línea.
+
+  - El nombre del script que se está ejecutando.
+  - El número de argumentos que se han pasado al script.
+  - El primer y segundo argumentos, ambos en la misma línea.
+  - Si hay más de dos argumentos, los argumentos a partir del tercero (este incluido) cada uno en una línea.
 
 ### Ejercicio 4
 
