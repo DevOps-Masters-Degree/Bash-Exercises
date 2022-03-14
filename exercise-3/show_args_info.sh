@@ -18,3 +18,5 @@ do
         echo "Argumento número $CONT: $i"
     fi
 done
+
+exit 0
